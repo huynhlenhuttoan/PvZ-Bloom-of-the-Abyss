@@ -1,0 +1,14 @@
+[Beta 0.0.1] 12/06/2026
+
+* Current Features *
+- Roguelike path selection mechanic across 10 nodes.
+- Basic squad with 3 plants (Peashooter, Sunflower, Wall-nut)
+- 4 functional moves.
+- Turn queue system that displays and updates action order based on speed.
+- Active combat mechanics including attack QTEs, timed parries, and counters.
+- Dynamic enemy squad generation that scales with the player's progress.
+
+* Known Issues *
+- Selected node difficulty does not affect enemy stats yet.
+- Game softlocks and ceases to progress upon reaching the final boss stage.
+
