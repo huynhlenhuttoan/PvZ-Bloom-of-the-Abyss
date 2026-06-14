@@ -18,6 +18,7 @@ A fan-made, non-profit Pygame project combining the strategic fusion of **PvZ Fu
 
 * **Roguelike Path Selection:** Choose your battle conditions through a dynamic grave map.
 * **Active Reaction System:** Command your turn with **QTE Perfect Attacks** and defend with **Timed Parries** to unleash devastating counters.
+* **Fusion Mechanics:** Fuse your plants together to discover vastly improved (or weirder) versions of them.
 * **Pure Offline Experience:** Single-player gameplay, completely standalone.
 * *Status:* **Under Active Development** 🛠️
 
@@ -27,12 +28,11 @@ A fan-made, non-profit Pygame project combining the strategic fusion of **PvZ Fu
 
 | Key | Action |
 | :--- | :--- |
-| **Arrow Keys / WASD / Mouse** | Navigate menus / Select paths / Choose targets |
-| **Enter / Left-Click**| Confirm selection |
-| **Backspace** | Return to previous menu |
+| **Arrow Keys / WASD / Mouse** | Navigating |
+| **E / Left-Click**| Confirm selection |
+| **Q / Right-Click** | Return to previous selection |
 | **E** | Trigger **Parry** (on enemy turn) / **QTE** (on player turn) |
 | **Ctrl** | Toggle HP/Armor numeric display mode |
-| **Escape** | Quit Game |
 
 ---
 

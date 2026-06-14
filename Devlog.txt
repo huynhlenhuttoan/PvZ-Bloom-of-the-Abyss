@@ -1,14 +1,29 @@
+[Beta 0.0.2] 14/06/2026
+**New Features**
+- Zen Garden: A new area where you can edit your squad and manage your garden.
+- Updated the Main Menu background.
+- UI and SFX enhancements for a better visual and audio experience.
+- Remapped keybindings.
+- Reworked the Skill system to handle more complex abilities.
+- Minor bug fixes.
+
+**Known Issues**
+- Difficulty still not yet applied to battles.
+- The Lab and Shop features are not yet implemented.
+
 [Beta 0.0.1] 12/06/2026
 
-* Current Features *
+**Current Features**
 - Roguelike path selection mechanic across 10 nodes.
-- Basic squad with 3 plants (Peashooter, Sunflower, Wall-nut)
+- Basic squad with 3 plants (Peashooter, Sunflower, Wall-nut).
 - 4 functional moves.
 - Turn queue system that displays and updates action order based on speed.
 - Active combat mechanics including attack QTEs, timed parries, and counters.
 - Dynamic enemy squad generation that scales with the player's progress.
 
-* Known Issues *
+**Known Issues**
 - Selected node difficulty does not affect enemy stats yet.
 - Game softlocks and ceases to progress upon reaching the final boss stage.
+
+
 
