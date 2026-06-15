@@ -11,7 +11,7 @@ A fan-made, non-profit Pygame project combining the strategic fusion of **PvZ Fu
 * **PvZ Fusion:** Huge thanks to **蓝飘飘fly** for creating this wonderful game and inspiring this project. 
     * [Official PvZ Fusion Bilibili Space](https://space.bilibili.com/3546619314178489/)
 * **Clair Obscur: Expedition 33:** Inspiring the unique Turn-based Parry, QTE system and cool SFXs.
-
+* **Plants vs. Zombies: Replanted** Some high-quality assets.
 ---
 
 ## 🎮 Key Features

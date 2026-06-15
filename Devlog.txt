@@ -1,3 +1,19 @@
+[Beta 0.0.3] 15/06/2026
+**New Features**
+- Lab: A new area where you can fuse your plants.
+- New in-game cursor.
+- UI enhancements.
+- Modified some characters' base stats.
+- Reworked the QTE system - you will deal no damage if you failed the QTE event.
+- Added 7 fusions
+- Added 6 abilities.
+- Aftermatch's reward - a random basic plant.
+- You will now start a run with 1 only Peashooter.
+
+**Known Issues**
+- The Shop features are not yet implemented.
+- For now, choosing a path have no actual functions.
+--------------------------------------------------------------------------------
 [Beta 0.0.2] 14/06/2026
 **New Features**
 - Zen Garden: A new area where you can edit your squad and manage your garden.
@@ -10,7 +26,7 @@
 **Known Issues**
 - Difficulty still not yet applied to battles.
 - The Lab and Shop features are not yet implemented.
-
+--------------------------------------------------------------------------------
 [Beta 0.0.1] 12/06/2026
 
 **Current Features**
@@ -24,6 +40,5 @@
 **Known Issues**
 - Selected node difficulty does not affect enemy stats yet.
 - Game softlocks and ceases to progress upon reaching the final boss stage.
-
 
 
