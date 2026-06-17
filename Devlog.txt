@@ -1,3 +1,17 @@
+[Beta 0.0.4] 17/06/2026
+**New Features**
+- Optimized animations and transitions.
+- Reworked the Parry and QTE systems for better balance.
+- Added adjustable settings.
+- Added background music.
+- Reworked Solar Shooter.
+- Better support for keyboard-only gameplay.
+- UI enhancements.
+- Many bugs fixed.
+
+**Known Issues**
+- The FPS counter may exceed the selected limit.
+--------------------------------------------------------------------------------
 [Beta 0.0.3] 15/06/2026
 **New Features**
 - Lab: A new area where you can fuse your plants.
