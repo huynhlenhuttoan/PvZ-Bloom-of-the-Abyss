@@ -1,3 +1,13 @@
+[Beta 0.0.5] 20/06/2026
+**New Features**
+- Display skill name before actions.
+- Added characters' passive system.
+- Reworked the skill system.
+- Optimized battle animations.
+- Reworked Twin Sunflower.
+- Added 3 zombies, 2 skills, and 6 passives.
+- Various bug fixes.
+--------------------------------------------------------------------------------
 [Beta 0.0.4] 17/06/2026
 **New Features**
 - Optimized animations and transitions.
